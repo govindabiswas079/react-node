@@ -1,0 +1,8 @@
+@media (max-width: 815px){
+    #appBar{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
